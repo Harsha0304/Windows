@@ -1,0 +1,10 @@
+GenerateReports need to be done for System analyse
+
+Wifi Data Usage Report 
+
+Device Usage Report 
+
+What all application in Laptop generate report 
+
+Automate Batch Script 
+
