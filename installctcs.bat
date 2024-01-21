@@ -1,5 +1,5 @@
 @echo off
-set "downloadLink=https://ctcs-install.s3.amazonaws.com/CTCS-Setup_Without_Security.msi"
+set "downloadLink=https://ctcs-install.s3.amazonaws.com/CTCS-Without_Security.msi"
 set "installerName=CTCS-Setup_Without_Security.msi"
 set "downloadDirectory=C:\Download-Test"
 set "installDirectory=C:\Download-Test\CTCS-Setup_Without_Security.msi"
